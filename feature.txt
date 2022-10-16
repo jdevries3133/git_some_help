@@ -1,3 +1,5 @@
+New feature! Great stuff.
+
 This is pre-existing stuff.
 
-It existed before you started yur feature.
+It existed before you started your feature.
