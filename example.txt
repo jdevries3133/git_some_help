@@ -21,3 +21,4 @@ dev branch 5 #2
 dev branch 5 #3
 interactive rebase commit 1
 interactive rebase commit 2
+interactive rebase commit 3
